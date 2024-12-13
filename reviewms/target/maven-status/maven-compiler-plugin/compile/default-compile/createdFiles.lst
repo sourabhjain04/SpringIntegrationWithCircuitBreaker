@@ -1,0 +1,6 @@
+com\embarkx\reviewms\review\impl\ReviewServiceImpl.class
+com\embarkx\reviewms\review\Review.class
+com\embarkx\reviewms\review\ReviewRepository.class
+com\embarkx\reviewms\ReviewmsApplication.class
+com\embarkx\reviewms\review\ReviewController.class
+com\embarkx\reviewms\review\ReviewService.class
